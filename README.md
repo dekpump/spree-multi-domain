@@ -31,3 +31,8 @@ Features To-do
 --------------
 
 1. Taxonomies - associate stores with taxonomies.
+--------------------
+
+ gem 'spree_multi_domain','3.0.4',:git => 'git://github.com/spree/spree-multi-domain.git' 
+-rails g spree_multi_domain:install
+

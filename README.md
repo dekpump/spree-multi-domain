@@ -34,5 +34,6 @@ Features To-do
 --------------------
 
  gem 'spree_multi_domain','3.0.4',:git => 'git://github.com/spree/spree-multi-domain.git' 
--rails g spree_multi_domain:install
+
+-rake spree_multi_domain:install
 
